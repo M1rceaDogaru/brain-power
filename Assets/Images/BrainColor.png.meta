@@ -1,0 +1,317 @@
+fileFormatVersion: 2
+guid: 104f3b5f58a670b4ca07f89723219d85
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: BrainColor_0
+    21300002: BrainColor_1
+    21300004: BrainColor_2
+    21300006: BrainColor_3
+    21300008: BrainColor_4
+  externalObjects: {}
+  serializedVersion: 5
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: BrainColor_0
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 215
+        width: 300
+        height: 297
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 23.7294, y: -138.89517}
+        - {x: 61.96649, y: -129.15504}
+        - {x: 99.72339, y: -101.77661}
+        - {x: 137, y: -61.5}
+        - {x: 143, y: -31.5}
+        - {x: 143, y: 12.5}
+        - {x: 135, y: 30.5}
+        - {x: 126, y: 51.5}
+        - {x: 111, y: 77.5}
+        - {x: 97, y: 89.5}
+        - {x: 69, y: 103.5}
+        - {x: 41, y: 109.5}
+        - {x: 6, y: 111.5}
+        - {x: -53, y: 119.5}
+        - {x: -87.864716, y: 113.20062}
+        - {x: -117.06229, y: 113.940735}
+        - {x: -138.44073, y: 108.901215}
+        - {x: -128.58206, y: 85.74313}
+        - {x: -133.62158, y: 53.080627}
+        - {x: -87.54715, y: 16.544098}
+        - {x: -75.24774, y: -55.828247}
+        - {x: -41.12921, y: -80.58508}
+        - {x: -27.4682, y: -119.27963}
+      physicsShape:
+      - - {x: 111, y: 75.5}
+        - {x: -24, y: 107.5}
+        - {x: -137, y: 110.5}
+        - {x: -130, y: 46.5}
+        - {x: -85, y: -0.5}
+        - {x: -29, y: -116.5}
+        - {x: 62, y: -138.5}
+        - {x: 135, y: -55.5}
+      tessellationDetail: 0.1
+      bones: []
+      spriteID: 689b5b81781075e4eaf0282a066ab68f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BrainColor_1
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 252
+        width: 288
+        height: 242
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 45.314117, y: 36.662384}
+        - {x: 50.057587, y: 109.157074}
+        - {x: -51, y: 87}
+        - {x: -76, y: 79}
+        - {x: -101, y: 57}
+        - {x: -120, y: 31}
+        - {x: -136, y: -1}
+        - {x: -141, y: -17}
+        - {x: -139.73561, y: -49.950256}
+        - {x: -53.026306, y: -74.04193}
+        - {x: 11.096649, y: -86.88486}
+        - {x: 144, y: -111.04974}
+        - {x: 107.04193, y: -65.99716}
+        - {x: 94.9346, y: 1.96875}
+      physicsShape:
+      - - {x: -57, y: 75}
+        - {x: -113, y: 33}
+        - {x: -138, y: -46}
+        - {x: 144, y: -117}
+        - {x: 111, y: -60}
+        - {x: 92, y: -2}
+        - {x: 43, y: 32}
+        - {x: 46, y: 105}
+      tessellationDetail: 0.1
+      bones: []
+      spriteID: 85846a868359507459aa08731e745f74
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BrainColor_2
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 124
+        width: 179
+        height: 210
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 3, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10.5, y: 74}
+        - {x: -80.5, y: 90}
+        - {x: -80.5, y: -50}
+        - {x: -51.5, y: -94}
+        - {x: -16.5, y: -86}
+        - {x: -14.5, y: -57}
+        - {x: 89.5, y: -40}
+        - {x: 49.5, y: 34}
+      physicsShape:
+      - - {x: 6.5, y: 73}
+        - {x: -77.5, y: 85}
+        - {x: -75.5, y: -63}
+        - {x: -23.5, y: -98}
+        - {x: -20.5, y: -76}
+        - {x: 10.5, y: -47}
+        - {x: 83.5, y: -38}
+        - {x: 56.5, y: 25}
+      tessellationDetail: 0.2
+      bones: []
+      spriteID: efaf03edf6c07c04a98e966938b25cb4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BrainColor_3
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 143
+        width: 258
+        height: 169
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -118, y: 58.5}
+        - {x: -69, y: -41.5}
+        - {x: 35, y: -74.5}
+        - {x: 101, y: -51.5}
+        - {x: 126, y: -9.5}
+        - {x: 16, y: 37.5}
+      physicsShape:
+      - - {x: -118, y: 56.5}
+        - {x: -65, y: -41.5}
+        - {x: 14, y: -68.5}
+        - {x: 99, y: -56.5}
+        - {x: 120, y: -12.5}
+        - {x: 34, y: 33.5}
+      tessellationDetail: 0.3
+      bones: []
+      spriteID: 2573c16b9aa625643893745a0b754b5e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BrainColor_4
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 84
+        width: 179
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -49.5, y: 41}
+        - {x: -82.5, y: 19}
+        - {x: -64.5, y: -24}
+        - {x: -27.5, y: -51}
+        - {x: 47.5, y: -34}
+        - {x: 86.5, y: 27}
+        - {x: 8.5, y: 48}
+      physicsShape:
+      - - {x: -41.5, y: 46}
+        - {x: -82.5, y: 22}
+        - {x: -61.5, y: -27}
+        - {x: -12.5, y: -51}
+        - {x: 50.5, y: -34}
+        - {x: 88.5, y: 22}
+        - {x: 21.5, y: 48}
+      tessellationDetail: 0.2
+      bones: []
+      spriteID: a9cb2cb258dcdbe479f3f478a38d4cc6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 952cc7a7af159c140a8244c1296d785c
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
